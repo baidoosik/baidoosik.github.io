@@ -27,15 +27,15 @@ theme = "PaperMod"
   weight = 1
 
 [[menu.main]]
-  identifier = "projects"
-  name = "프로젝트"
-  url = "/projects/"
+  identifier = "career"
+  name = "커리어"
+  url = "/career/"
   weight = 2
 
 [[menu.main]]
-  identifier = "startup"
-  name = "스타트업"
-  url = "/startup/"
+  identifier = "projects"
+  name = "프로젝트"
+  url = "/projects/"
   weight = 3
 
 [[menu.main]]
@@ -45,14 +45,13 @@ theme = "PaperMod"
   weight = 4
 
 [[menu.main]]
-  identifier = "life"
-  name = "일상"
-  url = "/life/"
+  identifier = "startup"
+  name = "스타트업"
+  url = "/startup/"
   weight = 5
 
 [[menu.main]]
-  identifier = "career"
-  name = "커리어"
-  url = "/career/"
+  identifier = "life"
+  name = "일상"
+  url = "/life/"
   weight = 6
-
