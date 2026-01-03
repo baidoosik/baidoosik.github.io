@@ -50,3 +50,9 @@ theme = "PaperMod"
   url = "/life/"
   weight = 5
 
+[[menu.main]]
+  identifier = "career"
+  name = "커리어"
+  url = "/career/"
+  weight = 6
+
