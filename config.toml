@@ -2,6 +2,7 @@ baseURL = "https://blog.enjoythejourney.xyz/"
 languageCode = "en-us"
 title = "Enjoy the journey"
 theme = "PaperMod"
+googleAnalytics = "G-WNV76V1G3D"
 
 [pagination]
   pagerSize = 10
