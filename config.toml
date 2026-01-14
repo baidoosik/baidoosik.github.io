@@ -56,3 +56,9 @@ googleAnalytics = "G-WNV76V1G3D"
   name = "일상"
   url = "/life/"
   weight = 6
+
+[[menu.main]]
+  identifier = "investment"
+  name = "투자"
+  url = "/investment/"
+  weight = 7
