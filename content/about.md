@@ -18,7 +18,7 @@ date: 2025-12-03
 
 LG디스플레이 회로설계팀에서 커리어를 시작하여 소프트웨어 엔지니어로 전향했고, 현재 **9년 차 소프트웨어 엔지니어**로 일하고 있습니다. 
 스타트업의 문화를 좋아해서 9년 동안 크고 작은 스타트업(에이팀벤처스, 센드버드, 쿼타북, 차이코퍼레이션)에서 **Server, Data, Database Engineer**로 근무했고, 
-현재는 브이원씨에서 Fouding Engineer이자 Head of Engineering으로 재직 중입니다. 
+현재는 브이원씨에서 Founding Engineer이자 Head of Engineering으로 재직 중입니다. 
 
 개인적으로는 오픈소스 프로젝트인 Django의 **[Django Software Foundation의 Individual Member](https://www.djangoproject.com/foundation/individual-members)**로 활동하고 있고, (한국이름을 찾아보세요!)
 종종 기술 발표를 하거나 글을 작성하며 커뮤니티에 기여하고 있습니다.
@@ -33,7 +33,7 @@ LG디스플레이 회로설계팀에서 커리어를 시작하여 소프트웨�
 
 ### 개인 프로젝트
 
-앞으로 진행 할 크고 작은 프로젝트들의 기록을 이 곳에 남겨보려고 합니다.
+앞으로 진행 할 크고 작은 프로젝트들의 기록을 이곳에 남겨보려고 합니다.
 
 프로젝트의 종류는 개발이 아니더라도 운동, 여행, 미식 등 다양한 프로젝트를 진행해 볼 생각입니다.
 
