@@ -11,3 +11,9 @@ resources/
 
 # OS
 .DS_Store
+
+# LaTeX build artifacts
+resume/output/
+*.aux
+*.log
+*.out
