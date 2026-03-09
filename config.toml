@@ -16,7 +16,7 @@ googleAnalytics = "G-WNV76V1G3D"
   ShowToc = true
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
-  defaultTheme = "auto"
+  defaultTheme = "dark"
   disableThemeToggle = false
 
 [[params.socialIcons]]
