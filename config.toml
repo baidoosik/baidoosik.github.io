@@ -8,6 +8,8 @@ googleAnalytics = "G-WNV76V1G3D"
   pagerSize = 10
 
 [params]
+  mainSections = ["tech", "startup", "life", "projects", "career", "investment"]
+  disableSpecial1stPost = true
   author = "Jordan Bae"
   ShowReadingTime = true
   ShowShareButtons = true
