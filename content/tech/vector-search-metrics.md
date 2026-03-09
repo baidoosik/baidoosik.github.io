@@ -1,5 +1,5 @@
 +++
-date = '2026-03-10'
+date = '2026-03-09'
 draft = false
 title = '[스터디] Vector Search 주요 평가 지표: RAG 검색 품질을 측정하는 5가지 메트릭'
 +++
